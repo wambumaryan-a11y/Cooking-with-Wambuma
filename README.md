@@ -139,20 +139,9 @@ td,th{
 
 <iframe  src="https://www.youtube.com/embed/AmC9SmCBUj4?si" allowfullscreen></iframe>
 
-<!-- TABLES -->
-<div class="tables">
-  <table>
-    <tr><th>Table 1</th></tr>
-    <tr><td>Pizza Recipe</td></tr>
-    <tr><td>Pasta Recipe</td></tr>
-  </table>
 
-  <table>
-    <tr><th>Table 2</th></tr>
-    <tr><td>Burger Recipe</td></tr>
-    <tr><td>Salad Recipe</td></tr>
-  </table>
-</div>
+
+ 
 
 </div>
 
