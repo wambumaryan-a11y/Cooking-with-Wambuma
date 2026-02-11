@@ -125,8 +125,7 @@ td,th{
   <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38" alt="burger">
   <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836" alt="pasta">
   <img src="https://images.unsplash.com/photo-1529042410759-befb1204b468" alt="dessert">
-  <img src="https://images.unsplash.com/photo-1512058564366-c9e3e0468e4b" alt="steak">
-  <img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d" alt="steak">
+ 
   
 </div>
 
