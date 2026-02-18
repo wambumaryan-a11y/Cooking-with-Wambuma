@@ -6,7 +6,7 @@
 <body>
 
 <!-- Line 1: Bold -->
-<p><b>Welcome to Delicious Bites, your number one destination for amazing food experiences.</b></p>
+<p><b>Welcome to my website, your number one destination for amazing food experiences.</b></p>
 
 <!-- Line 2: Italic -->
 <p><i>We specialize in fresh, organic, and locally sourced ingredients.</i></p>
