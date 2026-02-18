@@ -35,146 +35,11 @@
     Every meal tells a story of culture, flavor, and tradition.
 </blockquote>
 
-<!-- Line 10: Footer -->
-<footer>
-    <p>© 2026 Delicious Bites | All Rights Reserved</p>
-</footer>
 
-<!-- Line 11: Line Breaks -->
-<p>
-Fresh Ingredients<br>
-Fast Delivery<br>
-Excellent Service<br>
-Affordable Prices
-</p>
 
-<!-- Line 12: 3 lines with HR -->
-<p>Breakfast Menu</p>
-<hr>
-<p>Lunch Menu</p>
-<hr>
-<p>Dinner Menu</p>
 
-<!-- Line 13: Preformatted text -->
-<pre>
-Grilled Chicken
-Veggie Burger
-Seafood Pasta
-</pre>
 
-<!-- Line 14: Lists -->
-<h3>Unordered List (5 items)</h3>
-<ul>
-    <li>Pizza</li>
-    <li>Burger</li>
-    <li>Pasta</li>
-    <li>Salad</li>
-    <li>Soup</li>
-</ul>
 
-<h3>Ordered List (5 items)</h3>
-<ol>
-    <li>Choose Meal</li>
-    <li>Add to Cart</li>
-    <li>Enter Address</li>
-    <li>Make Payment</li>
-    <li>Enjoy Food</li>
-</ol>
-
-<!-- Line 15: Nested List (6 items total) -->
-<h3>Nested List</h3>
-<ul>
-    <li>Main Course
-        <ul>
-            <li>Steak</li>
-            <li>Rice</li>
-            <li>Chicken</li>
-        </ul>
-    </li>
-    <li>Desserts
-        <ul>
-            <li>Ice Cream</li>
-            <li>Cake</li>
-            <li>Pudding</li>
-        </ul>
-    </li>
-</ul>
-
-<!-- Line 17: Table with 10 columns and 5 rows -->
-<h3>Food Price Table</h3>
-<table border="1">
-    <tr>
-        <th>Item</th>
-        <th>Category</th>
-        <th>Calories</th>
-        <th>Price</th>
-        <th>Rating</th>
-        <th>Available</th>
-        <th>Chef</th>
-        <th>Spicy Level</th>
-        <th>Prep Time</th>
-        <th>Discount</th>
-    </tr>
-    <tr>
-        <td>Pizza</td>
-        <td>Fast Food</td>
-        <td>300</td>
-        <td>sh.1000</td>
-        <td>4.5</td>
-        <td>Yes</td>
-        <td>John</td>
-        <td>Medium</td>
-        <td>15 min</td>
-        <td>10%</td>
-    </tr>
-    <tr>
-        <td>Burger</td>
-        <td>Fast Food</td>
-        <td>250</td>
-        <td>sh.800</td>
-        <td>4.2</td>
-        <td>Yes</td>
-        <td>Mary</td>
-        <td>Low</td>
-        <td>10 min</td>
-        <td>5%</td>
-    </tr>
-    <tr>
-        <td>Pasta</td>
-        <td>Italian</td>
-        <td>280</td>
-        <td>sh.1200</td>
-        <td>4.7</td>
-        <td>Yes</td>
-        <td>David</td>
-        <td>High</td>
-        <td>20 min</td>
-        <td>15%</td>
-    </tr>
-    <tr>
-        <td>Salad</td>
-        <td>Healthy</td>
-        <td>150</td>
-        <td>sh.700</td>
-        <td>4.3</td>
-        <td>Yes</td>
-        <td>Anna</td>
-        <td>Low</td>
-        <td>8 min</td>
-        <td>0%</td>
-    </tr>
-    <tr>
-        <td>Soup</td>
-        <td>Starter</td>
-        <td>120</td>
-        <td>sh.600</td>
-        <td>4.0</td>
-        <td>Yes</td>
-        <td>Chris</td>
-        <td>Medium</td>
-        <td>12 min</td>
-        <td>5%</td>
-    </tr>
 </table>
 
 </body>
@@ -327,6 +192,143 @@ td,th{
  
 
 </div>
+<!-- Line 10: Footer -->
+<footer>
+    <p>© 2026 Delicious Bites | All Rights Reserved</p>
+</footer>
+<!-- Line 11: Line Breaks -->
+<p>
+Fresh Ingredients<br>
+Fast Delivery<br>
+Excellent Service<br>
+Affordable Prices
+</p>
+<!-- Line 12: 3 lines with HR -->
+<p>Breakfast Menu</p>
+<hr>
+<p>Lunch Menu</p>
+<hr>
+<p>Dinner Menu</p>
 
+<!-- Line 13: Preformatted text -->
+<pre>
+Grilled Chicken
+Veggie Burger
+Seafood Pasta
+</pre>
 </body>
 </html>
+
+<!-- Line 14: Lists -->
+<h3>Unordered List (5 items)</h3>
+<ul>
+    <li>Pizza</li>
+    <li>Burger</li>
+    <li>Pasta</li>
+    <li>Salad</li>
+    <li>Soup</li>
+</ul>
+
+<h3>Ordered List (5 items)</h3>
+<ol>
+    <li>Choose Meal</li>
+    <li>Add to Cart</li>
+    <li>Enter Address</li>
+    <li>Make Payment</li>
+    <li>Enjoy Food</li>
+</ol>
+
+<!-- Line 15: Nested List (6 items total) -->
+<h3>Nested List</h3>
+<ul>
+    <li>Main Course
+        <ul>
+            <li>Steak</li>
+            <li>Rice</li>
+            <li>Chicken</li>
+        </ul>
+    </li>
+    <li>Desserts
+        <ul>
+            <li>Ice Cream</li>
+            <li>Cake</li>
+            <li>Pudding</li>
+        </ul>
+    </li>
+</ul>
+
+<!-- Line 17: Table with 10 columns and 5 rows -->
+<h3>Food Price Table</h3>
+<table border="1">
+    <tr>
+        <th>Item</th>
+        <th>Category</th>
+        <th>Calories</th>
+        <th>Price</th>
+        <th>Rating</th>
+        <th>Available</th>
+        <th>Chef</th>
+        <th>Spicy Level</th>
+        <th>Prep Time</th>
+        <th>Discount</th>
+    </tr>
+    <tr>
+        <td>Pizza</td>
+        <td>Fast Food</td>
+        <td>300</td>
+        <td>sh.1000</td>
+        <td>4.5</td>
+        <td>Yes</td>
+        <td>John</td>
+        <td>Medium</td>
+        <td>15 min</td>
+        <td>10%</td>
+    </tr>
+    <tr>
+        <td>Burger</td>
+        <td>Fast Food</td>
+        <td>250</td>
+        <td>sh.800</td>
+        <td>4.2</td>
+        <td>Yes</td>
+        <td>Mary</td>
+        <td>Low</td>
+        <td>10 min</td>
+        <td>5%</td>
+    </tr>
+    <tr>
+        <td>Pasta</td>
+        <td>Italian</td>
+        <td>280</td>
+        <td>sh.1200</td>
+        <td>4.7</td>
+        <td>Yes</td>
+        <td>David</td>
+        <td>High</td>
+        <td>20 min</td>
+        <td>15%</td>
+    </tr>
+    <tr>
+        <td>Salad</td>
+        <td>Healthy</td>
+        <td>150</td>
+        <td>sh.700</td>
+        <td>4.3</td>
+        <td>Yes</td>
+        <td>Anna</td>
+        <td>Low</td>
+        <td>8 min</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td>Soup</td>
+        <td>Starter</td>
+        <td>120</td>
+        <td>sh.600</td>
+        <td>4.0</td>
+        <td>Yes</td>
+        <td>Chris</td>
+        <td>Medium</td>
+        <td>12 min</td>
+        <td>5%</td>
+    </tr>
