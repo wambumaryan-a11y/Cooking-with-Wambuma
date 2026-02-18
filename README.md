@@ -191,11 +191,7 @@ td,th{
 
  
 
-</div>
-<!-- Line 10: Footer -->
-<footer>
-    <p>© 2026 Delicious Bites | All Rights Reserved</p>
-</footer>
+
 <!-- Line 11: Line Breaks -->
 <p>
 Fresh Ingredients<br>
@@ -332,3 +328,8 @@ Seafood Pasta
         <td>12 min</td>
         <td>5%</td>
     </tr>
+</div>
+<!-- Line 10: Footer -->
+<footer>
+    <p>© 2026 RYAN WAMBUMA | All Rights Reserved</p>
+</footer>
