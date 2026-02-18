@@ -15,7 +15,7 @@
 <p><u>Our chefs prepare every dish with passion and creativity.</u></p>
 
 <!-- Line 4: Superscript -->
-<p>Our restaurant was established in 2024<sup>th</sup> and has served over 10<sup>3</sup> happy customers.</p>
+<p>Our restaurant was established in 2026<sup>th</sup> and has served over 10<sup>3</sup> happy customers.</p>
 
 <!-- Line 5: Subscript -->
 <p>Our secret sauce formula includes H<sub>2</sub>O and special spices.</p>
@@ -337,5 +337,5 @@ Seafood Pasta
 
 
 
-    <p>© 2026 RYAN WAMBUMA | All Rights Reserved</p>
+<p>© 2026 RYAN WAMBUMA | All Rights Reserved</p>
 
