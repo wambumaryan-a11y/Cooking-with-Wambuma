@@ -330,12 +330,12 @@ Seafood Pasta
     </tr>
 </div>
 </footer>
-
-
-
-
-
 <!-- Line 10: Footer -->
 <footer>
+
+
+
+
+
     <p>© 2026 RYAN WAMBUMA | All Rights Reserved</p>
 
