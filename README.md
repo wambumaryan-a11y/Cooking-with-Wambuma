@@ -1,6 +1,30 @@
 
 <html>
-<head>
+<head><!-- External CSS -->
+<link rel="stylesheet" href="styles.css">
+
+<!-- Internal CSS -->
+<style>
+    body {
+        text-align: center;
+        background-color: #ffe4b5; /* not white */
+    }
+
+    .container {
+        border: 2px solid black;
+        padding: 15px;
+        margin: 20px auto;
+        width: 260px;
+        background-color: white;
+        border-radius: 10px;
+    }
+
+    img {
+        width: 200px;
+        height: 150px;
+        border-radius: 8px;
+    }
+</style>
     <title>Food Website Paragraph Task</title>
 </head>
 <body>
